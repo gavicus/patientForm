@@ -1,0 +1,16 @@
+div.field {
+    margin-top: 10px;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+}
+
+input[type="submit"] {
+    margin: 20px 0;
+}
+
+input[type="checkbox"] {
+    margin-left: 20px;
+}
